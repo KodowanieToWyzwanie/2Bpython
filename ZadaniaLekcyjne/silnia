@@ -1,0 +1,13 @@
+#1*2*3*4....
+def silnia_rek(a):
+  if a == 1: #przypadek podstawowy
+    return 1
+  else:
+    return a * (silnia_rek(a-1))
+
+def silnia_ite(a):
+  wynik = 1
+  while a >= 1:
+    wynik  *= a
+    a -= 1
+  return wynik
