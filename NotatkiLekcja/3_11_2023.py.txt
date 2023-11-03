@@ -1,0 +1,66 @@
+#liczenie sumy cyfr iteracyjnie
+# a = 123456
+# suma = 0
+# while a >=1 :
+#   suma += a%10
+#   a = a // 10  
+# print(suma)
+
+#mnożenie dodając  
+a = 3 #podstawa 
+b = 4 #wykładnik 
+# 3*4 bez gwiazdek 3+3+3+3
+# while b > 0:
+#   a += a
+#   b -= 
+suma = 0
+for i in range(1, b+1):
+  suma += a
+# print(suma)
+
+# potegowanie **  tylko mnożąc 
+potega=1
+#potegowanie mnożąc i pętla FOR
+# for i in range(1, b+1):
+#   potega *= a
+# print(potega)
+
+#przy użyciu pętli WHILE
+#  3**4 = (3*3) *( 3*3)  3*3  w*w
+# 3**5 = (3*3) *( 3*3) *3  w*w*a
+# wynik = 1
+while b > 0 :  
+  potega *= a 
+  b -=1
+
+print(potega)
+  
+
+
+
+
+
+
+
+# a = str(a)
+# print(type(a))
+# suma = ""
+# suma1 = 0
+# for i in a:
+#   suma += i
+#   suma1 += int(i)
+#   # print(int(i)) 
+
+# print(f"to jest suma String {suma}")
+# print(f"to jest suma Integer {suma1}")
+
+# imie = "Michał" 
+# lista =[1,2,3,4,5]
+# b = 12345
+# print(imie[::-1])
+# print(lista[4])
+# print(imie[-1])
+# print(imie[0:2])
+# print(b[:3])#TypeError: 'int' object is not subscriptable
+
+
