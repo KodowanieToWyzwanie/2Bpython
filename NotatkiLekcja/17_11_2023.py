@@ -22,3 +22,16 @@ def szybkie_potegowanie_ite(a,b):
   
 print(szybkie_potegowanie_ite(2,11))
 #print(potega(2, 11))
+
+#jak działają funkcje
+def dodawanie(a, b):
+  return a + b
+
+wynik = dodawanie(6,8)
+print(wynik)
+def nwd(a,b):
+  while b !=0:
+    a,b = b, a%b
+  return a
+
+print(nwd(14,24))
