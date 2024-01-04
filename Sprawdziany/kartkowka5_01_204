@@ -1,0 +1,15 @@
+# 1. Utwórz tablicę 20 liczb pseudolosowych w przedziale 0,50
+
+# 2. Policz ile liczb jest podzielnych przez 3
+# 3. Policz Sumę liczb parzystych
+
+# 2. Policz ile jest liczb nieparzystych
+# 3. Policz sumę liczb podzielnych przez 3
+
+# 1. Utwórz tablicę 20 liczb pseudolosowych
+
+# 2. Czy w tablicy znajduje się przynajmniej 1 liczba parzysta? True/False
+# 3. Czy w tabliczy znajduje się przynajmniej 1 liczba pierwsza?
+
+# 2. Czy w tablicy znajduje się przynajmniej 1 liczba nieparzysta? True/False
+# 3. Czy w tabliczy znajduje się przynajmniej 1 liczba złożona?
