@@ -3,8 +3,44 @@
 # 2. Policz ile liczb jest podzielnych przez 3
 # 3. Policz Sumę liczb parzystych
 
+import random
+lista = []
+for _i in range(20):
+  lista.append(random.randint(0,50))
+
+licznik_podz = 0
+suma = 0
+for i in lista:
+  if i % 3 == 0:
+    licznik_podz +=1
+  if i % 2 == 0:
+    suma += i
+print("podzielne przez 3",licznik_podz)
+print("suma", suma)
+    
+print(lista)
+
+
 # 2. Policz ile jest liczb nieparzystych
 # 3. Policz sumę liczb podzielnych przez 3
+
+import random
+lista = []
+for _i in range(20):
+  lista.append(random.randint(0,50))
+
+licznik_npodz = 0
+suma = 0
+for i in lista:
+  if i % 3 == 0:
+    suma += i
+  if i % 2 != 0:
+    licznik_npodz +=1
+print("podzielne przez 3",licznik_podz)
+print("suma", suma)
+    
+print(lista)
+
 
 # 1. Utwórz tablicę 20 liczb pseudolosowych
 
