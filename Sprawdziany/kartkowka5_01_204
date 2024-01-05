@@ -49,3 +49,26 @@ print(lista)
 
 # 2. Czy w tablicy znajduje się przynajmniej 1 liczba nieparzysta? True/False
 # 3. Czy w tabliczy znajduje się przynajmniej 1 liczba złożona?
+
+import random
+tab = [random.randint(0,50) for i in range(20)]
+print(tab)
+
+for i in tab:
+  if i%2 == 0:
+    print("True")
+    break
+else:
+  print("False")
+
+# parzyste = any(i %2 == 0 for i in tab)
+# print(parzyste)
+
+for j in tab:
+  if j > 1:
+    for i in range(2,j):
+      if (j%i) ==0:
+        break
+    else:
+      print("True")
+    break
