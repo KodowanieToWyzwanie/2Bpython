@@ -1,3 +1,4 @@
+#use temp.txt
 #zad 1. ile jest temperatur poniżej 0, wyświetl wynik dla każdego zadania
 #zad 2. jaka jest najniższa temperatura - bez używania funkcji wbudowanej
 #zad 3. jaka jest średnia temperatura - zaokrąglij do 2 miejsc po przecinku
