@@ -1,0 +1,16 @@
+# Zadanie OBE – Zadanie obecność
+# Zadanie
+# Na każdej lekcji w celu potwierdzenia obecności uczeń mówi tyle razy JESTEM, ile wynosi jego
+# numer w dzienniku.
+# Dane
+# Jedna liczba naturalna N nie większa niż 50, numer w dzienniku
+# Wyniki
+# N linii z wyrażeniem JESTEM.
+# Przykład
+# Dla danych
+# 3
+# Poprawnym wynikiem jest
+# JESTEM
+# JESTEM
+# JESTEM
+#w pętli while , for
