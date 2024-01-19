@@ -1,0 +1,7 @@
+liczba = int(input())
+bb = bin(liczba)[2:]
+osem = oct(liczba)[2:]
+sz = hex(liczba)[2:]
+liczba = int(bb, 2)
+#rzutujemy na int i podajemy jaka jest podstawa systemu
+liczba = int(sz, 16)
