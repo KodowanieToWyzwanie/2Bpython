@@ -1,0 +1,22 @@
+https://miroslawzelent.pl/kurs-mysql/
+
+https://www.w3schools.com/mysql/default.asp
+
+https://www.makeuseof.com/sql-games-hone-skills/ - lista gier 
+
+ 
+ 
+
+ 
+
+https://sqlpd.com/ 
+
+ 
+
+https://sqlzoo.net/wiki/SELECT_Quiz 
+ 
+
+https://sqlbolt.com/ 
+
+ 
+https://sql-island.informatik.uni-kl.de/ - wydostajesz się z bezludnej wyspy 
