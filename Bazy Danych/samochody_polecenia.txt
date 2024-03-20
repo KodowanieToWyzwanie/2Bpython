@@ -15,8 +15,7 @@ NAPISZ ZAPYTANIA, KTÓRE WYJMĄ Z BAZY NASTĘPUJĄCE INFORMACJE:
  4. Samochody o numerach w bazie od 2 do 4 włącznie.
  5. Imiona i nazwiska klientów, którzy mieszkają w Katowicach na ulicy Rolnej (pod 
 dowolnym numerem).
- 6. Samochód w bazie (marka, model), którego ubezpieczenie jest najdroższe z 
-wszystkich aut.
+ 6. Ile wynosi najdroższe ubezpieczenie wszystkich aut.
  7. Samochód (idauta, marka, model), który został najwcześniej wypożyczony 
 (decyduje datawyp).
  8. Imiona i nazwiska osób, które wypożyczyły kiedykolwiek samochód nr 1.
