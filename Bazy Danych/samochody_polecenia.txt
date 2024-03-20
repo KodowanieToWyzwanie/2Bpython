@@ -1,8 +1,8 @@
 NAPISZ ZAPYTANIA, KTÓRE WYJMĄ Z BAZY NASTĘPUJĄCE INFORMACJE:
 1. Zaimportuj bazę - co jest ważna przy imporcie
-2. Wybierz wszytkieg dane z tabeli samochody
+2. Wybierz wszystkie dane z tabeli samochody
 3. Wybierz dane klienta o id = 3
-4. Wybierz wszystkie marki posortuj alfabetycznie od najmiejszego
+4. Wybierz wszystkie marki sortuj alfabetycznie od najmiejszego
 5. Wybierz tylko 3 rekordy z tabeli samochody
 
 -----------
@@ -23,3 +23,20 @@ wszystkich aut.
  9. Jakie auta (marka, model) kiedykolwiek wypożyczyła u nas osoba nr 4?
  10. Jakie auta (marka, model) kiedykolwiek wypożyczyła u nas osoba o nazwisku 
 "Pastewniak"?
+
+—--------------
+Usuń klienta o id 5
+Wybierz klientów mieszkających w Katowicach
+Wstaw do każdej tabeli po dwa nowe rekordy
+Zmień imie klienta o id nr 1 na Alan 
+Zmień modele samochodów Astra na Astra II
+Zwiększ należność o 10 zł dla wszystkich aut
+Policz ile jest Fordów
+Policz ile jest kobiet
+Posortuj samochody wg modelu
+Policz ile jest aut każdej marki
+Ile średnio płaci się za wypożyczenie?
+Wybierz idklienta, idauta, datę zwrotu i datę wypożyczenia z wypożyczeń 
+Wybierz nazwisko klienta, datę zwrotu i datę wypożyczenia z wypożyczeń użyj relacji
+Wybierz markę i model, datę zwrotu i datę wypożyczenia z wypożyczeń użyj relacji
+Wybierz nazwisko, markę i model,, datę zwrotu i datę wypożyczenia z wypożyczeń użyj relacji
