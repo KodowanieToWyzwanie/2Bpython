@@ -1,0 +1,15 @@
+﻿1. Zaimportuj bazę danych ksiegarnia.sql. baza danych ma się nazywać ksiegarnia, a następnie wykonaj polecenia, poprawnie wykonane kwerendy/zapytania zapisz w pliku tekstowym: Twoje_imie_Twoje_nazwisko.txt
+2. Wybierz wszystkie dane klientów z bazy
+3. Wybierz nazwiska klientów.
+4. Wybierz tytul i cene ksiazki
+5. Książki ułożone alfabetycznie wg tytułu 
+6. Jaka jest cena najdroższej książki w bazie 
+7. Jaka jest cena najtańszej książki w bazie 
+8. Wszystkie dane wysłanych zamówień 
+9. Wszystkich klientów o nazwisku Rutkowski
+10.  ustaw nazwisko na Malinowska dla klientki o id = 4
+11.  Wstaw do bazy klienta Andy Warhol mieszkającego w Nowym Jorku  
+12. Wstaw do bazy książkę Projektowanie baz danych dla każdego. Przewodnik krok po kroku, autora Hernandez  cena 62.99
+13. Zgłoś, że wykonałeś wszystkie zadania
+14. Usuń bazę, wszystkie odpowiedzi prześlij na kodowanietowyzwanie@gmail.com
+15. Gratulacje, miłego weekendu
